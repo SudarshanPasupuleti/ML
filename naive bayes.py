@@ -1,5 +1,6 @@
 """
-Implement Naïve Bayes theorem to classify the English text
+Implement Naïve Bayes theorem to classify the English text   \
+
 """
 import numpy as np
 import pandas as pd
